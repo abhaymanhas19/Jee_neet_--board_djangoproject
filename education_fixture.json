@@ -1,0 +1,254 @@
+[
+{
+    "model": "education.section",
+    "pk": 1,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "number": 1,
+        "image": "media/pngtree.jpg",
+        "title": "Where commitment leads to accomplishments.",
+        "description": "where efforts meet results",
+        "short_description": ""
+    }
+},
+{
+    "model": "education.section",
+    "pk": 2,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "number": 2,
+        "image": "",
+        "title": "The go-to education platform for every indian child.",
+        "description": "",
+        "short_description": ""
+    }
+},
+{
+    "model": "education.section",
+    "pk": 3,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "number": 3,
+        "image": "",
+        "title": "A Faculty Dream Team: Experts Dedicated to Your Success",
+        "description": "",
+        "short_description": ""
+    }
+},
+{
+    "model": "education.section",
+    "pk": 4,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "number": 4,
+        "image": "",
+        "title": "Popular Cources",
+        "description": "",
+        "short_description": ""
+    }
+},
+{
+    "model": "education.section",
+    "pk": 5,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "number": 5,
+        "image": "",
+        "title": "Making Dreams Come True",
+        "description": "Testimonials of Accompolished Goals",
+        "short_description": "The voice of Our Coaching Excellence"
+    }
+},
+{
+    "model": "education.section",
+    "pk": 6,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "number": 6,
+        "image": "",
+        "title": "Seemless Learining at your Fingertips:",
+        "description": "",
+        "short_description": ""
+    }
+},
+{
+    "model": "education.section",
+    "pk": 7,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "number": 7,
+        "image": "",
+        "title": "Frequently Asked Questions",
+        "description": "",
+        "short_description": ""
+    }
+},
+{
+    "model": "education.section",
+    "pk": 8,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "number": 8,
+        "image": "",
+        "title": "Send Us A Message",
+        "description": "",
+        "short_description": ""
+    }
+},
+{
+    "model": "education.coursecategory",
+    "pk": 1,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "name": "Engineering"
+    }
+},
+{
+    "model": "education.course",
+    "pk": 1,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "name": "Bloosom",
+        "category": 1,
+        "description": "<ul>\r\n\t<li><strong>Crash Course for JEE 2023</strong>&nbsp;Enrol now &amp; get ₹1999 off</li>\r\n\t<li><strong>One Year Integrated Classroom Course</strong>&nbsp;for Class XII, JEE (Main and Advanced)</li>\r\n\t<li><strong>Crash Course for JEE 2023</strong>&nbsp;Enrol now &amp; get ₹1999 off</li>\r\n\t<li><strong>One Year Integrated Classroom Course</strong>&nbsp;for Class XII, JEE (Main and Advanced)</li>\r\n\t<li><strong>Crash Course for JEE 2023</strong>&nbsp;Enrol now &amp; get ₹1999 off</li>\r\n\t<li><strong>One Year Integrated Classroom Course</strong>&nbsp;for Class XII, JEE (Main and Advanced)</li>\r\n\t<li><strong>Crash Course for JEE 2023</strong>&nbsp;Enrol now &amp; get ₹1999 off</li>\r\n\t<li><strong>One Year Integrated Classroom Course</strong>&nbsp;for Class XII, JEE (Main and Advanced)</li>\r\n</ul>"
+    }
+},
+{
+    "model": "education.course",
+    "pk": 2,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "name": "Zoom",
+        "category": 1,
+        "description": "<p>Zoom classes</p>"
+    }
+},
+{
+    "model": "education.course",
+    "pk": 3,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "name": "Lead",
+        "category": 1,
+        "description": "<p>Lead&nbsp;</p>"
+    }
+},
+{
+    "model": "education.course",
+    "pk": 4,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "name": "Rapid",
+        "category": 1,
+        "description": "<p>Rapid</p>"
+    }
+},
+{
+    "model": "education.course",
+    "pk": 5,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "name": "Nature",
+        "category": 1,
+        "description": "<p>Nature</p>"
+    }
+},
+{
+    "model": "education.course",
+    "pk": 6,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "name": "Bloom",
+        "category": 1,
+        "description": "<p>Bloom</p>"
+    }
+},
+{
+    "model": "education.historicaldata",
+    "pk": 1,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "position": 1,
+        "title": "No. of years in guidance",
+        "value": 5
+    }
+},
+{
+    "model": "education.historicaldata",
+    "pk": 2,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "position": 2,
+        "title": "Students Natured",
+        "value": 500
+    }
+},
+{
+    "model": "education.historicaldata",
+    "pk": 3,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "position": 3,
+        "title": "No. of test Conducted",
+        "value": 1000
+    }
+},
+{
+    "model": "education.staffdetail",
+    "pk": 1,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "image": "media/teacher.jpeg",
+        "name": "Teacher 1",
+        "subject": "Chemistry",
+        "education": "Bsc. Chemistry (Hons.)"
+    }
+},
+{
+    "model": "education.testimonial",
+    "pk": 1,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "image": "",
+        "name": "student 1",
+        "testimonial": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "additional_detail": "NEET rank 1"
+    }
+},
+{
+    "model": "education.testimonial",
+    "pk": 2,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "image": "",
+        "name": "Student 2",
+        "testimonial": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "additional_detail": ""
+    }
+},
+{
+    "model": "education.samplevideo",
+    "pk": 2,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "link": "https://www.youtube.com/embed/8WoeGcJ_nNM"
+    }
+},
+{
+    "model": "education.samplevideo",
+    "pk": 3,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "link": "https://www.youtube.com/embed/8WoeGcJ_nNM"
+    }
+},
+{
+    "model": "education.faq",
+    "pk": 1,
+    "fields": {
+        "page_id": "bestneetcoaching",
+        "question": "test question 1",
+        "reply": "test answer 1"
+    }
+}
+]
